@@ -1,0 +1,52 @@
+/* add your CSS here */
+.container{
+    position: fixed;
+    display:block;
+    width:325px;
+    border: 1px solid #afadad;
+    padding:5px;
+    background-color: #afadad;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.border{
+    border: 2px solid #dddde2;
+    border-radius: 25px;
+    padding:5px;
+}
+
+.span{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ul{
+    list-style-type:none;
+    padding: 3mm;
+    margin: 2;
+}
+
+#img{
+    border: 1px solid #afadad;
+    border-radius: 50px;
+    padding: 5px;
+    width: 300px;
+    object-fit:cover;
+}
+
+#emphasis{ 
+    font-style: italic;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding: 3mm;
+}
+
+#normaltext{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 2mm;
+}

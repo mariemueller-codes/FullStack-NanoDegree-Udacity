@@ -1,5 +1,31 @@
-# FullStackNanoDegree_Udacity
+# Full Stack Developer Nanodegree Program (Udacity)
 
-This is  my Udacity's Web Nanodegree Repository.
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Projects](#projects)
+* [Setup](#setup)
 
+## General Info
+This is  a repository for my projects under Udacity Full Stack Developer course. The aim of this repository is to showcase what I learned and build project using full stack technologies. 
+
+## Technologies
+The technology scope for this repository are as follows:
+* HTML
+* CSS
+* Python 3.6
+* Javascript
+* Spring Boot
+
+## Projects
+* [Animal Trading Cards](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/tree/master/AnimalCards)
+* Adventure Game - *coming soon*
+* Pixel Art Maker - *coming soon*
+* Hotel Reservation Application - *coming soon*
+* Parallel Web Crawler - *coming soon*
+* SuperDuperDrive - *coming soon*
+* Critter Chronologer - *coming soon*
+
+## Setup
+```
 +++work in progress+++
+```

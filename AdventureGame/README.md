@@ -21,3 +21,8 @@ The following are basic requirements for this project:
 * Program is a playable game, and runs from start to finish without crashing or displaying errors.
 * Avoid using global variables in the functions
 
+## Credits
+* Udacity Full Stack Developer Nanodegree Program
+
+## License
+[MIT License](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/blob/demo/LICENSE.txt)

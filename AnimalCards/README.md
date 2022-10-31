@@ -18,3 +18,8 @@ The following are basic requirements for this project:
 * Padding around the animal's name, image, the list of items and information
 * No 'style' elements or attribute directly in card.html
 
+## Credits
+* Udacity Full Stack Developer Nanodegree Program
+
+## License
+[MIT License](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/blob/demo/LICENSE.txt)

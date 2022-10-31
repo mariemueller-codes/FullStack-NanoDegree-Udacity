@@ -29,7 +29,7 @@ The technology scope for this repository are as follows:
 * Udacity Full Stack Developer Nanodegree Program
 
 ## License
-MIT License
+[MIT License](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/blob/demo/LICENSE.txt)
 
 ## Setup
 ```

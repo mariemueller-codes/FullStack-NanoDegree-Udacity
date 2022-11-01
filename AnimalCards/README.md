@@ -1,5 +1,5 @@
 # animal-trading-cards
-Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
+Animal Trading Cards Project for Udacity's Web Nanodegree Programs
 
 # General Info
 This is to demonstrate web development skills by recreating a web page from a design prototype. The prototype for this project is based on trading cards and a choosen animal. Customization of the card, image and text are encouraged. The following files are required for this project:

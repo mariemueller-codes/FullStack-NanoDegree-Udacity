@@ -1,5 +1,5 @@
 # adventure-game
-Adventure Game Project for Udacity's Web Nanodegree Programs.
+Adventure Game Project for Udacity's Web Nanodegree Programs
 
 # General Info
 This is to demonstrate basic python skills by making a simple version of an old-fashioned text-based adventure game. The key features for this game are as follows:

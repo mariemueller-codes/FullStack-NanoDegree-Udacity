@@ -18,6 +18,8 @@ The following are basic requirements for this project:
 * Padding around the animal's name, image, the list of items and information
 * No 'style' elements or attribute directly in card.html
 
+## Trading Card Prototype
+![alt text](assets/images/trading-card-prototype.png)
 ## Credits
 * Udacity Full Stack Developer Nanodegree Program
 

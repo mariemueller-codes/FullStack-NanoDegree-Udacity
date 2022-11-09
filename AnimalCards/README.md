@@ -19,7 +19,8 @@ The following are basic requirements for this project:
 * No 'style' elements or attribute directly in card.html
 
 ## Trading Card Prototype
-![alt text](assets/images/trading-card-prototype.png)
+![MVP](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/blob/master/AnimalCards/assets/trading-card-prototype.PNG)
+
 ## Credits
 * Udacity Full Stack Developer Nanodegree Program
 

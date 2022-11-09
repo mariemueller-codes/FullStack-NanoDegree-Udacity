@@ -1,5 +1,7 @@
-# animal-trading-cards
-Animal Trading Cards Project for Udacity's Web Nanodegree Programs
+# AnimalCards
+Animal Trading Cards Project for Udacity's Web Nanodegree Program
+
+![MVP](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/blob/master/AnimalCards/assets/trading-card-prototype.PNG)
 
 # General Info
 This is to demonstrate web development skills by recreating a web page from a design prototype. The prototype for this project is based on trading cards and a choosen animal. Customization of the card, image and text are encouraged. The following files are required for this project:
@@ -17,9 +19,6 @@ The following are basic requirements for this project:
 * Borders around the animal name, image and text information
 * Padding around the animal's name, image, the list of items and information
 * No 'style' elements or attribute directly in card.html
-
-## Trading Card Prototype
-![MVP](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/blob/master/AnimalCards/assets/trading-card-prototype.PNG)
 
 ## Credits
 * Udacity Full Stack Developer Nanodegree Program

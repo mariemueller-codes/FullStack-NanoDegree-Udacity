@@ -19,7 +19,7 @@ The technology scope for this repository are as follows:
 ## Projects
 * [Animal Trading Cards](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/tree/master/AnimalCards)
 * [Adventure Game](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/tree/master/AdventureGame)
-* Pixel Art Maker - *coming soon*
+* [Pixel Art Maker](https://github.com/mariemueller-codes/FullStack-NanoDegree-Udacity/tree/master/PixelArt)
 * Hotel Reservation Application - *coming soon*
 * Parallel Web Crawler - *coming soon*
 * SuperDuperDrive - *coming soon*

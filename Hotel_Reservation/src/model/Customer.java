@@ -6,7 +6,7 @@ public class Customer {
     private String firstName;
     private String lastName;
     private String email;
-    private String emailRegex = "^(.+)@(.+).(.+)$";
+    private String EMAIL_REGEX = "^(.+)@(.+).(.+)$";
 
     public Customer(String firstName, String lastName, String email){
         this.firstName = firstName;
@@ -16,12 +16,14 @@ public class Customer {
     }
 
     public void isEmailValid(String email){
-        Pattern pattern = Pattern.compile(emailRegex);
+        Pattern pattern = Pattern.compile(EMAIL_REGEX);
 
         if (!pattern.matcher(email).matches()){
             throw new IllegalArgumentException("Invalid email");
         }
     }
+
+    public String getEmail(){return this.email;}
 
     @Override
     public String toString(){

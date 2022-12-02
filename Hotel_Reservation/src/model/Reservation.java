@@ -1,7 +1,6 @@
 package model;
 
-
-import java.sql.Date;
+import java.util.Date;
 
 public class Reservation {
     private Customer customer;
@@ -9,11 +8,11 @@ public class Reservation {
     private Date checkInDate;
     private Date checkOutDate;
 
-    public Reservation(Customer customer, IRoom room, java.util.Date checkInDate2, java.util.Date checkOutDate2){
+    public Reservation(Customer customer, IRoom room, Date checkInDate, java.util.Date checkOutDate){
         this.customer = customer;
         this.room = room;
-        this.checkInDate = checkInDate2;
-        this.checkOutDate = checkOutDate2;
+        this.checkInDate = checkInDate;
+        this.checkOutDate = checkOutDate;
     }
 
     public IRoom getRoom(){return this.room;}

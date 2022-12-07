@@ -6,15 +6,36 @@ import java.util.List;
 import model.Customer;
 import model.IRoom;
 import model.Reservation;
+import service.CustomerService;
+import service.ReservationService;
 
 public class AdminResource {
-    public Customer getCustomer(String email){}
+    private static final AdminResource SINGLETON = new AdminResource();
 
-    public void addRoom(List <IRoom> getAllRooms){}
+    private final CustomerService customerService = CustomerService.getSingleton();
+    private final ReservationService reservationService = ReservationService.getSingleton();
 
-    public Collection <IRoom> getAllRooms(){}
+    public AdminResource(){}
 
-    public Collection <Customer> getAllCustomers(){}
+    public static AdminResource getSingleton(){return SINGLETON;}
 
-    public void displayAllReservations(){}
+    public Customer getCustomer(String email){
+        return customerService.getCustomer(email);
+    }
+
+    public void addRoom(List <IRoom> getAllRooms){
+        getAllRooms.forEach(reservationService::addRoom);
+    }
+
+    public Collection <IRoom> getAllRooms(){
+        return reservationService.getAllRooms();
+    }
+
+    public Collection <Customer> getAllCustomers(){
+        return customerService.getAllCustomer();
+    }
+
+    public void displayAllReservations(){
+        reservationService.printAllReservation();
+    }
 }
